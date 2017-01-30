@@ -16,9 +16,10 @@ public class RINCS2017 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hello git and source tree");
-        System.out.println("web update");
-        System.out.println("sithangvn1");
+        Animal a = new Animal();
+        Dogs re = new Dogs();
+        re.Bark("My name is re !!");
+        a.Go(100);
     }
     
 }
