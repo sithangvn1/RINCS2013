@@ -10,5 +10,7 @@ package rincs2017;
  * @author rs-is
  */
 public class Dogs extends Animal{
-    
+    /**
+     *extend animal class method
+     */
 }
