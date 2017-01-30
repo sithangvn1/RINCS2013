@@ -9,11 +9,6 @@ package rincs2017;
  *
  * @author rs-is
  */
-public class ANIMAL {
+public class Animal {
 
-    /**
-     * THIS IS ANIMAL CLASS
-     */
-    
-    
 }
