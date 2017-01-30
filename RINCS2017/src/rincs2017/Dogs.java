@@ -13,4 +13,7 @@ public class Dogs extends Animal{
     /**
      *extend animal class method
      */
+    public void Bark(String stBark){
+        System.out.println("Gau gau .... "+stBark);
+    }
 }
