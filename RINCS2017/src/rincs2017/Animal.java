@@ -11,4 +11,11 @@ package rincs2017;
  */
 public class Animal {
 
+    public void Bark(String stBark){
+        System.out.println("Gau gau .... "+stBark);
+    }
+    
+    public void Go(double met){
+        System.out.println("I can run "+ met + " m");
+    }
 }
