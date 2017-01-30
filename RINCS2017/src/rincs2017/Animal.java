@@ -17,5 +17,6 @@ public class Animal {
      */
     public void Go(double met){
         System.out.println("I can run "+ met + " m");
+        System.out.println("change");
     }
 }
